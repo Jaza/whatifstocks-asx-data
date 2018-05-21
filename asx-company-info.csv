@@ -1,0 +1,396 @@
+ticker_symbol,title,sector
+ACB,A-Cap Resources,Energy
+ABP,Abacus Property Group,Real Estate
+ABU,Abm Resources NL,Materials
+ACR,ACRUX Limited,Health Care
+ADA,Adacel Technologies,Information Technology
+ABC,Adelaide Brighton,Materials
+ADX,ADX Energy Limited,Energy
+AGL,AGL Energy Limited,Utilities
+AGI,Ainsworth Game Tech,Consumer Discretionary
+ACL,Alchemia Limited,Health Care
+AGS,Alliance Resources,Materials
+ADN,Andromeda Metals Limited,Materials
+AAR,Anglo Australian,Materials
+AGY,Argosy Minerals Limited,Materials
+AFA,Asf Group Limited,Financials
+AGO,Atlas Iron Limited,Materials
+AAC,Australian Agricult,Consumer Staples
+AFI,Australian Foundat,Financials
+AIZ,Air New Zealand,Industrials
+ALF,Australian Leaders,Financials
+ALK,Alkane Resources Limited,Materials
+ALL,Aristocrat Leisure,Consumer Discretionary
+AMC,Amcor Limited,Materials
+AMP,AMP Limited,Financials
+ANG,Austin Engineering,Industrials
+ANL,Amani Gold Limited,Materials
+ANN,Ansell Limited,Health Care
+ANP,Antisense Therapeut,Health Care
+ANZ,ANZ Banking Group Limited,Financials
+AON,Apollo Minerals Limited,Materials
+APA,APA Group,Utilities
+APG,Austpac Resources NL,Materials
+API,Australian Pharm,Health Care
+APZ,Aspen Group,Real Estate
+AQD,Ausquest Limited,Materials
+ARE,Argonaut Resources,Materials
+ARG,Argo Investments,Financials
+ARU,Arafura Resource Limited,Materials
+ASB,Austal Limited,Industrials
+ASL,Ausdrill Limited,Materials
+ASX,ASX Limited,Financials
+ATR,Astron Corp Limited,Materials
+AUI,Australian United in,Financials
+AVH,Avita Medical Limited,Health Care
+AVJ,Avjennings Limited,Real Estate
+AVL,Aust Vanadium Limited,Materials
+AWC,Alumina Limited,Materials
+AWE,AWE Limited,Energy
+BAR,Barra Resources,Materials
+BAU,Bauxite Resource Limited,Materials
+BBL,Brisbane Broncos,Consumer Discretionary
+BCN,Beacon Minerals,Materials
+BDR,Beadell Resource Limited,Materials
+BEN,Bendigo and Adelaide,Financials
+BHP,BHP Billiton Limited,Materials
+BIT,Biotron Limited,Health Care
+BKI,BKI Investment Limited,Financials
+BKW,Brickworks Limited,Materials
+BKY,Berkeley Energia Limited,Energy
+BLD,Boral Limited,Materials
+BLG,Bluglass Limited,Information Technology
+BLY,Boart Longyear,Industrials
+BMN,Bannerman Resources,Energy
+BNO,Bionomics Limited,Health Care
+BOC,Bougainville Copper,Materials
+BOL,Boom Logistics,Industrials
+BOQ,Bank of Queensland,Financials
+BPH,BPH Energy Limited,Health Care
+BPT,Beach Energy Limited,Energy
+BRC,Brain Resource Limited,Health Care
+BRG,Breville Group Limited,Consumer Discretionary
+BRL,Bathurst Res Limited,Materials
+BRU,Buru Energy,Energy
+BSL,Bluescope Steel Limited,Materials
+BSM,Bass Metals Limited,Materials
+BTT,BT Investment,Financials
+BUG,Buderim Group Limited,Consumer Staples
+BUL,Blue Energy Limited,Energy
+BUY,Bounty Oil & Gas NL,Energy
+BWP,BWP Trust,Real Estate
+BXB,Brambles Limited,Industrials
+CAA,Capral Limited,Materials
+CAB,Cabcharge Australia,Industrials
+CAI,Calidus Resources,Materials
+CAM,Clime Capital,Financials
+CAZ,Cazaly Resources,Materials
+CBA,Commonwealth Bank,Financials
+CCE,Carnegie CLN Energy,Utilities
+CCL,Coca-Cola Amatil,Consumer Staples
+CCP,Credit Corp Group,Financials
+CCV,Cash Converters,Consumer Discretionary
+CDD,Cardno Limited,Industrials
+CDM,Cadence Capital,Financials
+CDU,Cudeco Limited,Materials
+CFE,Cape Lambert Res Limited,Materials
+CGF,Challenger Limited,Financials
+CHC,Charter Hall Group,Real Estate
+CHP,Chapmans Limited,Financials
+CLH,Collection House,Industrials
+CLV,Clover Corporation,Health Care
+CLX,Cti Logistics,Industrials
+CMP,Compumedics Limited,Health Care
+CMW,Cromwell Prop,Real Estate
+CND,Clarius Group Limited,Industrials
+CNX,Carbon Energy,Energy
+COE,Cooper Energy Limited,Energy
+COH,Cochlear Limited,Health Care
+COI,Comet Ridge Limited,Energy
+CPU,Computershare Limited,Information Technology
+CSE,Copper Strike Limited,Materials
+CSL,CSL Limited,Health Care
+CSR,CSR Limited,Materials
+CSS,Clean Seas Limited,Consumer Staples
+CSV,CSG Limited,Information Technology
+CTO,Citigold Corp Limited,Materials
+CTP,Central Petroleum,Energy
+CTX,Caltex Australia,Energy
+CUV,Clinuvel Pharmaceut,Health Care
+CVN,Carnarvon Petroleum,Energy
+CWN,Crown Resorts Limited,Consumer Discretionary
+CWP,Cedar Woods Prop,Real Estate
+CXM,Centrex Metals,Materials
+CYA,Century Australia,Financials
+CYG,Coventry Group,Industrials
+DDT,Datadot Technology,Consumer Discretionary
+DJW,Djerriwarrh,Financials
+DMP,Domino PIZZA Enterpr,Consumer Discretionary
+DOW,Downer Edi Limited,Industrials
+DUI,Diversified United,Financials
+DWS,DWS Limited,Information Technology
+DXS,Dexus,Real Estate
+DYL,Deep Yellow Limited,Energy
+EHL,Emeco Holdings,Industrials
+ELK,ELK Petroleum,Energy
+ELX,ELLEX Medical Lasers,Health Care
+EMR,Emerald Res NL,Materials
+EOS,Electro Optic SYS,Industrials
+EQT,Equity HL,Financials
+ERA,Energy Resources 'A',Energy
+ERM,Emmerson Resources,Materials
+ESI,ENV Clean Tech Limited,Industrials
+ESV,Eservglobal Limited,Information Technology
+EWC,Energy World Corpor,Utilities
+EXR,Elixir Petroleum Limited,Energy
+EZL,EUROZ Limited,Financials
+FAR,FAR Limited,Energy
+FBU,Fletcher Building,Materials
+FLK,Folkestone Limited,Real Estate
+FLT,Flight Centre Travel,Consumer Discretionary
+FMG,Fortescue Metals Group,Materials
+FML,Focus Minerals Limited,Materials
+FMS,Flinders Mines Limited,Materials
+FRI,Finbar Group Limited,Real Estate
+FSA,FSA Group Limited,Financials
+FUN,Funtastic Limited,Consumer Discretionary
+FWD,Fleetwood Corp,Consumer Discretionary
+FXJ,Fairfax Media Limited,Consumer Discretionary
+FXL,Flexigroup Limited,Financials
+GAP,Gale Pacific Limited,Consumer Discretionary
+GBE,Globe Metals &Mining,Materials
+GBG,Gindalbie Metals Limited,Materials
+GBP,Global Petroleum,Energy
+GBZ,GBM Rsources Limited,Materials
+GGG,Greenland Min En Limited,Materials
+GMG,Goodman Group,Real Estate
+GNC,Graincorp Limited,Consumer Staples
+GOW,Gowing Bros. Limited,Financials
+GPT,GPT Group,Real Estate
+GRR,Grange Resources,Materials
+GTG,Genetic Technologies,Health Care
+GUD,G.U.D. Holdings,Consumer Discretionary
+GXL,Greencross Limited,Consumer Discretionary
+GXY,Galaxy Resources,Materials
+HAV,Havilah Resources,Materials
+HAW,Hawthorn Resources,Materials
+HEG,Hill End Gold,Materials
+HGO,Hillgrove Res Limited,Materials
+HIG,Highlands Pacific,Materials
+HIL,Hills Limited,Information Technology
+HLX,HELIX Resources,Materials
+HNG,HGL Limited,Industrials
+HOM,Homeloans Limited,Financials
+HRR,Heron Resources,Materials
+HTA,Hutchison,Telecommunication Services
+HVN,Harvey Norman,Consumer Discretionary
+HZN,Horizon Oil Limited,Energy
+IAG,Insurance Australia,Financials
+IAU,Intrepid Mines,Materials
+IBC,Ironbark Capital Limited,Financials
+IBG,Ironbark ZINC Limited,Materials
+IDT,IDT Australia Limited,Health Care
+IFL,IOOF Holdings Limited,Financials
+IFM,Infomedia Limited,Information Technology
+IGO,Independence Group,Materials
+ILU,Iluka Resources,Materials
+IMA,Image Resources NL,Materials
+IMD,IMDEX Limited,Materials
+IMF,IMF Bentham Limited,Financials
+IMU,Imugene Limited,Health Care
+IOF,Investa Office Fund,Real Estate
+IPL,Incitec Pivot,Materials
+IRE,Iress Limited,Information Technology
+IRI,Integrated Research,Information Technology
+IVC,Invocare Limited,Consumer Discretionary
+JBH,JB Hi-Fi Limited,Consumer Discretionary
+JHX,James Hardie Indust,Materials
+JRL,Jindalee Resources,Materials
+JRV,Jervois Mining,Materials
+KAR,Karoon Gas Australia,Energy
+KCN,Kingsgate Consolid,Materials
+KOR,Korab Resources,Materials
+KOV,Korvest Limited,Industrials
+KSC,K & S Corporation,Industrials
+LAU,Lindsay Australia,Industrials
+LCT,Living Cell Tech,Health Care
+LEG,Legend Mining,Materials
+LEP,Ale Property Group,Real Estate
+LKO,Lakes Oil NL,Energy
+LLC,Lendlease Group,Real Estate
+LNG,Liquefied Natural,Energy
+LOM,Lucapa Diamond Limited,Materials
+LSR,Lodestar Minerals,Materials
+LYC,Lynas Corporation,Materials
+MAH,Macmahon Holdings,Materials
+MAQ,Macquarie Telecom GP,Telecommunication Services
+MAY,Melbana Energy Limited,Energy
+MCP,Mcpherson's Limited,Consumer Discretionary
+MCR,Mincor Resources NL,Materials
+MEL,Metgasco Limited,Energy
+MEP,Minotaur Exploration,Materials
+MEU,Marmota Limited,Energy
+MFF,MFF Capital INV Limited,Financials
+MGR,Mirvac Group,Real Estate
+MGX,Mount Gibson Iron,Materials
+MGZ,Medigard Limited,Health Care
+MIN,Mineral Resources,Materials
+MIR,Mirrabooka Invest,Financials
+MLB,Melbourne IT Limited,Information Technology
+MLS,Metals Australia,Materials
+MLT,Milton Corporation,Financials
+MLX,Metals X Limited,Materials
+MML,Medusa Mining Limited,Materials
+MMS,Mcmillan Shakespeare,Industrials
+MND,Monadelphous Group,Industrials
+MOC,Mortgage Choice Limited,Financials
+MOD,MOD Resources Limited,Materials
+MQG,Macquarie Group Limited,Financials
+MRM,Mmaoffshor,Industrials
+MTR,Mantra Group Limited,Consumer Discretionary
+MTS,Metcash Limited,Consumer Staples
+MXI,Maxitrans Industries,Industrials
+MZM,Montezuma Mining Co,Materials
+NAB,National Aust. Bank,Financials
+NAM,Namoi Cotton Limited,Industrials
+NAN,Nanosonics Limited,Health Care
+NCM,Newcrest Mining,Materials
+NEU,Neuren Pharmaceut,Health Care
+NGE,NGE Capital Limited,Financials
+NHC,New Hope Corporation,Energy
+NHF,Nib Holdings Limited,Financials
+NSL,NSL Consolidated Limited,Materials
+NTU,Northern Min Limited,Materials
+NUF,Nufarm Limited,Materials
+NVT,Navitas Limited,Consumer Discretionary
+NWE,Norwest Energy NL,Energy
+NWH,NRW Holdings Limited,Industrials
+NWS,News Corp,Consumer Discretionary
+OBJ,OBJ Limited,Health Care
+ODY,Odyssey Energy,Energy
+OEC,Orbital Corp Limited,Industrials
+OEL,Otto Energy Limited,Energy
+OGC,Oceanagold Corp,Materials
+OIL,Optiscan Imaging,Health Care
+OMH,Om Holdings Limited,Materials
+ORG,Origin Energy,Energy
+ORI,Orica Limited,Materials
+OSH,Oil Search Limited,Energy
+PAN,Panoramic Resources,Materials
+PBP,Probiotec Limited,Health Care
+PBT,Prana Biotechnology,Health Care
+PCG,Pengana Capital,Financials
+PCL,Pancontinental Oil,Energy
+PDZ,Prairie Mining Limited,Materials
+PEK,Peak Resources,Materials
+PEN,Peninsula Energy Limited,Energy
+PGS,Planet Gas Limited,Energy
+PMC,Platinum Capital Limited,Financials
+PME,Pro Medicus Limited,Health Care
+PMP,PMP Limited,Industrials
+PMV,Premier Investments,Consumer Discretionary
+PNN,Pepinnini Lithium,Materials
+POH,Phosphagenics Limited,Health Care
+POS,Poseidon Nick Limited,Materials
+PPC,Peet Limited,Real Estate
+PPT,Perpetual Limited,Financials
+PPY,Papyrus Australia,Materials
+PRO,Prophecy Internation,Information Technology
+PRT,Prime Media Group Limited,Consumer Discretionary
+PRU,Perseus Mining Limited,Materials
+PRY,Primary Health Care,Health Care
+PTM,Platinum Asset,Financials
+PXS,Pharmaxis Limited,Health Care
+QAN,Qantas Airways,Industrials
+QBE,QBE Insurance Group,Financials
+QHL,Quickstep Holdings,Industrials
+RCR,RCR Tomlinson,Industrials
+RCT,Reef Casino Trust,Consumer Discretionary
+RDF,Redflex Holdings,Information Technology
+RDM,Red Metal Limited,Materials
+REA,REA Group,Information Technology
+RED,RED 5 Limited,Materials
+RES,Resource Generation,Energy
+REX,Regional Express,Industrials
+RFG,Retail Food Group,Consumer Discretionary
+RHC,Ramsay Health Care,Health Care
+RIC,Ridley Corporation,Consumer Staples
+RIO,RIO Tinto Limited,Materials
+RKN,Reckon Limited,Information Technology
+RMD,Resmed Inc,Health Care
+RMI,Resource Mining Corp,Materials
+RMS,Ramelius Resources,Materials
+RRL,Regis Resources,Materials
+RSG,Resolute Mining,Materials
+RVR,Red River Resources,Materials
+SAU,Southern Gold,Materials
+SBM,ST Barbara Limited,Materials
+SDG,Sunland Group Limited,Real Estate
+SDI,SDI Limited,Health Care
+SDL,Sundance Resources,Materials
+SEA,Sundance Energy,Energy
+SEK,Seek Limited,Industrials
+SEN,Senetas Corporation,Information Technology
+SFH,Specialty Fashion,Consumer Discretionary
+SGC,Sacgasco Limited,Energy
+SGH,Slater & Gordon,Consumer Discretionary
+SGM,Sims Metal MGMT Limited,Materials
+SGP,Stockland,Real Estate
+SHL,Sonic Healthcare,Health Care
+SHV,Select Harvests,Consumer Staples
+SIG,Sigma Health Limited,Health Care
+SKC,Skycity Ent Group Limited,Consumer Discretionary
+SKI,Spark Infrastructure,Utilities
+SLM,Salmat Limited,Industrials
+SLR,Silver Lake Resource,Materials
+SLX,SILEX Systems,Information Technology
+SOL,Soul Pattinson (W.H),Energy
+SPL,Starpharma Holdings,Health Care
+SPX,Spectrum Rare EARTHS,Materials
+SRI,Sipa Resources Limited,Materials
+SRV,Servcorp Limited,Real Estate
+SRX,Sirtex Medical,Health Care
+SSM,Service Stream,Industrials
+STO,Santos Limited,Energy
+STX,Strike Energy Limited,Energy
+SUN,Suncorp Group Limited,Financials
+SVL,Silver Mines Limited,Materials
+TAH,Tabcorp Holdings Limited,Consumer Discretionary
+TAP,TAP Oil Limited,Energy
+TAW,Tawana Resources NL,Materials
+TBR,Tribune Res Limited,Materials
+TCL,Transurban Group,Industrials
+TDO,3D Oil Limited,Energy
+TGG,Templeton Global,Financials
+TGP,360 Capital Group,Real Estate
+TGR,Tassal Group Limited,Consumer Staples
+THX,Thundelarra Limited,Materials
+TLM,Talisman Mining,Materials
+TLS,Telstra Corporation,Telecommunication Services
+TNE,Technology One,Information Technology
+TNG,TNG Limited,Materials
+TOE,Toro Energy Limited,Energy
+TOX,TOX Free Solutions,Industrials
+TRS,The Reject Shop,Consumer Discretionary
+TRY,Troy Resources Limited,Materials
+TWR,Tower Limited,Financials
+TZL,TZ Limited,Information Technology
+TZN,Terramin Australia,Materials
+UBI,Universal Biosensors,Health Care
+VLA,Viralytics Limited,Health Care
+VMT,Vmoto Limited,Consumer Discretionary
+VRL,Village Roadshow Limited,Consumer Discretionary
+VTG,Vita Group Limited,Consumer Discretionary
+WAA,Wam Active Limited,Financials
+WAM,WAM Capital Limited,Financials
+WBA,Webster Limited,Consumer Staples
+WBC,Westpac Banking Corp,Financials
+WEB,Webjet Limited,Consumer Discretionary
+WEC,White Energy Company,Energy
+WES,Wesfarmers Limited,Consumer Staples
+WHC,Whitehaven Coal,Energy
+WOR,Worleyparsons Limited,Energy
+WOW,Woolworths Group Limited,Consumer Staples
+WPL,Woodside Petroleum,Energy
+WSA,Western Areas Limited,Materials
+WTP,Watpac Limited,Industrials
